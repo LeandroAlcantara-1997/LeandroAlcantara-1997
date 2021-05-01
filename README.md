@@ -25,7 +25,7 @@
 
 ## Total de Visitas no perfil<br>
  <p align="center"> 
-   <img alingn="center" src="https://github.com/LeandroAlcantara-1997"/>
+   <img alingn="center" src="https://github.com/LeandroAlcantara-1997" />
 
 
 
