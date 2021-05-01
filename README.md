@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/leandro-alcantara-3101a820b">
 <img align="center" alt="leandro-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+<img align="center" alt="diego-youtube" height="30" width="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="max-width:100%;">
+</a>
 
 
 
