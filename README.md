@@ -1,6 +1,6 @@
 ## Hello, World!
 
-##Contact with me:
+## Contact with me:
 
 <a href="https://www.linkedin.com/in/leandro-alcantara-3101a820b">
 <img align="center" alt="leandro-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
@@ -8,6 +8,13 @@
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
 <img align="center" alt="diego-youtube" height="30" width="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="max-width:100%;">
 </a>
+
+## My Skills:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
+
 
 
 
