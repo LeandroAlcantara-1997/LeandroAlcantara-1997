@@ -2,14 +2,16 @@
 
 ##Contact with me
 
-<a href="https://www.linkedin.com/in/leandro-alcantara-3101a820b" target="_blank">
- <img align="center" alt="leandro linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-</a>
-
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
- <img align="center" alt="leandro gmail" height="30" width="40" src="<img align="center" alt="leandro linkedin" height="30" width="40" src="" style="max-width:100%;">
-</a>" style="max-width:100%;">
-</a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/leandro-alcantara-3101a820b">
+        <img  src="https://www.linkedin.com/in/leandro-alcantara-3101a820b">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="leandro1997silva97@gmail.com">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
+ </a>
+</p>
+ 
 
 
 
