@@ -23,3 +23,9 @@
 
 [![Linguages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroAlcantara-1997&layout=compacttrue&theme=highcontrast)](https://github.com/LeandroAlcantara-1997/github-readme-stats)
 
+## Total de Visitas no perfil<br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+
+
+
