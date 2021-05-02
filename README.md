@@ -1,6 +1,6 @@
 ## Hello, World! 🖐️
 
-## Contact with me:
+## Contact:
 
 <a href="https://www.linkedin.com/in/leandro-alcantara-3101a820b">
 <img align="center" alt="leandro-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
