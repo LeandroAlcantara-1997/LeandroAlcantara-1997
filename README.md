@@ -1,7 +1,7 @@
 # Hello, World! 🖐️
 ## Welcome to my profile
 
-<img src="innovation-bro.png" alt="github" width="500" height="500" style="max-width:100%;"></img>
+<img src="https://github.com/LeandroAlcantara-1997/LeandroAlcantara-1997/blob/main/Innovation-bro.png" alt="github" width="500" height="500" style="max-width:100%;"></img>
 
 ## Contact:
 
