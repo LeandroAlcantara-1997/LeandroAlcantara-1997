@@ -42,6 +42,7 @@
 ## Total profile visits<br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/LeandroAlcantara-1997/count.svg" />
+   <img src="Chatting-amico.png" alt="visits" width="200" height="200" style="max-width:100%;"></img>
 
 
 
