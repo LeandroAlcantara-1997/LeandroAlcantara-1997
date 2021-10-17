@@ -6,13 +6,13 @@
 ## Contact:
 
 <a href="https://www.linkedin.com/in/leandro-alcantara-3101a820b">
-<img align="center" alt="leandro-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+<img alt="leandro-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="mailto:leandro1997silva97@gmail.com">
-<img align="center" alt="Leandro_Email" height="30" width="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="max-width:100%;">
+<img alt="Leandro_Email" height="30" width="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="max-width:100%;">
 </a>
-<a href="tel:11970230377">
-<img align="center" alt="phone_number" height="40" width="50" src="cellphone.png" style="max-width:100%;">
+<a href="tel:11 970230377">
+<img alt="phone_number" height="40" width="50" src="cellphone.png" style="max-width:100%;">
 </a>
 
 ## Languages:
