@@ -1,0 +1,42 @@
+img {
+    display: inline;
+    margin: 20px;
+}
+
+.status {
+    display: flex;
+    justify-content: center;
+}
+#portfolio {
+    width: 20%;
+    height: 20%;
+}
+.title {
+    font-weight: 500px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    border-radius: 20px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: white
+}
+div {
+    text-align: center;
+}
+
+.icons {
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+    margin: 5px;
+}
+svg {
+    width: 40%;
+    height: 40%;
+}
+svg#freepik_stories-astronaut:not(.animated) .animable {opacity: 0;}svg#freepik_stories-astronaut.animated #freepik--Stars--inject-10 {animation: 1.0s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) fadeIn;animation-delay: 0s;}svg#freepik_stories-astronaut.animated #freepik--Spaceship--inject-10 {animation: 3s Infinite  linear floating;animation-delay: 0s;}svg#freepik_stories-astronaut.animated #freepik--Character--inject-10 {animation: 3s Infinite  linear floating;animation-delay: 0s;}            @keyframes fadeIn {                0% {                    opacity: 0;                }                100% {                    opacity: 1;                }            }                    @keyframes floating {                0% {                    opacity: 1;                    transform: translateY(0px);                }                50% {                    transform: translateY(-10px);                }                100% {                    opacity: 1;                    transform: translateY(0px);                }            }        
