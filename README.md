@@ -6,15 +6,15 @@
 </div>
 <h2 align="center" ><strong>Portfolio (Still in production)</strong></h2>
 <div align="center" >
-  <abbr align="center" ><a class="icons" href="https://leandroalcantara-1997.github.io/My_Portfolio/html/index.html" target="_blank" rel="external"> <img id="portfolio" src="portfolio.svg" alt="Portfolio" width="80px" height="80px" ></a></abbr>
+  <abbr align="center" ><a class="icons" href="https://leandroalcantara-1997.github.io/My_Portfolio/html/index.html" target="_blank" rel="external" target="_blank"> <img id="portfolio" src="portfolio.svg" alt="Portfolio" width="80px" height="80px" ></a></abbr>
 </div>
 
 <h2 align="center" ><strong>Contact</strong></h2>
 
 <div align="center" >
-  <abbr align="center"  title="Linkedin"><a class="icons" href="https://www.linkedin.com/in/leandro-alcantara-pro" target="_blank" rel="external"> <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Logo Linkedin" width="40px" height="40px"></a></abbr>
+  <abbr align="center"  title="Linkedin"><a class="icons" href="https://www.linkedin.com/in/leandro-alcantara-pro" target="_blank" rel="external" target="_blank"> <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Logo Linkedin" width="40px" height="40px"></a></abbr>
   </a>
-  <abbr align="center"  title="Gmail"><a class="icons" href="mailto:leandro1997silva97@gmail.com" target="_blank" rel="external"> <img class="icons" src="gmail.svg" alt="Logo Gmail"></a></abbr>
+  <abbr align="center"  title="Gmail"><a class="icons" href="mailto:leandro1997silva97@gmail.com" target="_blank" rel="external" target="_blank"> <img class="icons" src="gmail.svg" alt="Logo Gmail"></a></abbr>
 </div>
 
 <h2 align="center" ><strong>Languages</strong></h2>
