@@ -6,7 +6,7 @@
 </div>
 <h2 align="center" ><strong>Portfolio (Still in production)</strong></h2>
 <div align="center" >
-  <abbr align="center" ><a class="icons" href="https://leandroalcantara-1997.github.io/My_Portfolio/html/index.html" target="_blank" rel="external" target="_blank"> <img id="portfolio" src="portfolio.svg" alt="Portfolio" width="80px" height="80px" ></a></abbr>
+  <abbr align="center" ><a class="icons" href="https://leandroalcantara-1997.github.io/My_Portfolio/html/index.html" rel="external" target="_blank"> <img id="portfolio" src="portfolio.svg" alt="Portfolio" width="80px" height="80px" ></a></abbr>
 </div>
 
 <h2 align="center" ><strong>Contact</strong></h2>
