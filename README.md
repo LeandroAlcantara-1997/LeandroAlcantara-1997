@@ -2,7 +2,7 @@
 <h2 align="center" ><strong> Welcome to my profile 🤙</strong></h2>
 
 <div align="center">
-  <img  class="icons" src="Astronaut.gif" alt="Astronaut">
+  <img  class="icons" src="Astronaut-amico.svg" alt="Astronaut" width="500px" height="500px">
 </div>
 <h2 align="center" ><strong>Portfolio (Still in production)</strong></h2>
 <div align="center" >
