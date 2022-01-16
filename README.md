@@ -26,6 +26,14 @@
   <abbr title="Javascript"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Logo Javascript" width="40px" height="40px"></abbr>
 </div>
 
+<h2 align="center" ><strong>Markup Languages</strong></h2>
+
+<div align="center" >
+<abbr title="HTML5"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo HTML5" width="40px" height="40px"></abbr>
+                            <abbr title="CSS3"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Logo CSS3" width="40px" height="40px"></abbr>
+<abbr title="Markdown" width="40px" height="40px"><i class = "devicon-markdown-plain "> </i></abbr>
+  </div>
+
 <h2 align="center" ><strong>Tools</strong></h2>
 
 <div align="center">
