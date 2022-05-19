@@ -1,12 +1,9 @@
 <h1 align="center" ><strong>Hello, World! 🌎 💻</strong></h2>
 <h2 align="center" ><strong> Welcome to my profile 🤙</strong></h2>
 
-<div align="center">
-  <img  class="icons" src="Astronaut-amico.svg" alt="Astronaut" width="500px" height="500px">
-</div>
 <h2 align="center" ><strong>Portfolio (Still in production)</strong></h2>
 <div align="center" >
-  <abbr align="center" ><a class="icons" href="https://leandroalcantara-1997.github.io/My_Portfolio/html/index.html" rel="external" target="_blank"> <img id="portfolio" src="portfolio.svg" alt="Portfolio" width="80px" height="80px" ></a></abbr>
+  <abbr align="center" ><a class="icons" href="https://leandroalcantara-1997.github.io/My_Portfolio/html/index.html" rel="external" target="_blank"> <img id="portfolio" src="portfolio.svg" alt="Portfolio" width="250px" height="250px" ></a></abbr>
 </div>
 
 <h2 align="center" ><strong>Contact</strong></h2>
@@ -26,33 +23,27 @@
   <abbr title="Javascript"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Logo Javascript" width="40px" height="40px"></abbr>
 </div>
 
-<h2 align="center" ><strong>Markup Languages</strong></h2>
+<div align="center">
+  <h2 align="center" ><strong>SGBD's</strong></h2>
+  <abbr title="PostgreSQL"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Logo PostgreSQL" width="40px" height="40px"></abbr>
+  <abbr title="MySQL"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo MySQL" width="40px" height="40px"></abbr>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="Logo MySQL" width="40px" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Logo Redis" width="40px" height="40px"/>
 
-<div align="center" >
-<abbr title="HTML5"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo HTML5" width="40px" height="40px"></abbr>
-                            <abbr title="CSS3"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Logo CSS3" width="40px" height="40px"></abbr>
-<abbr title="Markdown" width="40px" height="40px"><i class = "devicon-markdown-plain "> </i></abbr>
-  </div>
+</div>
+
 
 <h2 align="center" ><strong>Tools</strong></h2>
 
 <div align="center">
   <abbr title="Gradle"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Logo gradle" width="40px" height="40px"></abbr>
-  <abbr title="Apache Maven"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Logo Apache Maven" width="40px" height="40px"></abbr>
   <abbr title="Spring Boot"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Logo Spring Boot" width="40px" height="40px"></abbr>
   <abbr title="Google Cloud Platform"><img class="icons" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Logo Google cloud platform" width="40px" height="40px" /></abbr>
   <abbr title="Postman"><img class="icons" src="postman.svg" alt="Logo Postman" width="40px" height="40px"></abbr>
   <abbr title="Git"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo Git" width="40px" height="40px"></abbr>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Logo Docker" width="40px" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Logo Jira" width="40px" height="40px"/>
 </div>
-
-<div align="center">
-  <h2 align="center" ><strong>SGBD's</strong></h2>
-  <abbr title="PostgreSQL"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Logo PostgreSQL" width="40px" height="40px"></abbr>
-  <abbr title="MySQL"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo MySQL" width="40px" height="40px"></abbr>
-</div>
-
-
-
 
 
 
