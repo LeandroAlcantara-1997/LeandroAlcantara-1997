@@ -1,11 +1,6 @@
 <h1 align="center" ><strong>Hello, World! 🌎 💻</strong></h2>
 <h2 align="center" ><strong> Welcome to my profile 🤙</strong></h2>
 
-<h2 align="center" ><strong>Portfolio (Still in production)</strong></h2>
-<div align="center" >
-  <abbr align="center" ><a class="icons" href="https://leandroalcantara-1997.github.io/My_Portfolio/html/index.html" rel="external" target="_blank"> <img id="portfolio" src="portfolio.svg" alt="Portfolio" width="250px" height="250px" ></a></abbr>
-</div>
-
 <h2 align="center" ><strong>Contact</strong></h2>
 
 <div align="center" >
@@ -43,14 +38,6 @@
   <abbr title="Git"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo Git" width="40px" height="40px"></abbr>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Logo Docker" width="40px" height="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Logo Jira" width="40px" height="40px"/>
-</div>
-
-
-
-<div display="inline" align="center">
-
-[![Linguages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroAlcantara-1997&layout=compacttrue&theme=github_dark)](https://github.com/LeandroAlcantara-1997/github-readme-stats) ![Leandro Status](https://github-readme-stats.vercel.app/api?username=LeandroAlcantara-1997&show_icons=true&theme=github_dark)
-
 </div>
 
 <h2 align="center" ><strong>Total profile visits</strong></h2>
