@@ -31,7 +31,6 @@
 <h2 align="center" ><strong>Tools</strong></h2>
 
 <div align="center">
-  <abbr title="Gradle"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Logo gradle" width="40px" height="40px"></abbr>
   <abbr title="Spring Boot"><img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Logo Spring Boot" width="40px" height="40px"></abbr>
   <abbr title="Google Cloud Platform"><img class="icons" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Logo Google cloud platform" width="40px" height="40px" /></abbr>
   <abbr title="Postman"><img class="icons" src="postman.svg" alt="Logo Postman" width="40px" height="40px"></abbr>
